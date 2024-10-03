@@ -1,0 +1,16 @@
+# Compiled source files
+/out/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Data files (if they are generated during runtime)
+data/anagram_data.txt
+
+# OS-specific files
+.DS_Store
+Thumbs.db
